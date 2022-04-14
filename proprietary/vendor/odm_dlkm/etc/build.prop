@@ -1,0 +1,22 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm_dlkm.brand=generic
+ro.product.odm_dlkm.device=RMX1941
+ro.product.odm_dlkm.manufacturer=realme
+ro.product.odm_dlkm.model=Realme C2
+ro.product.odm_dlkm.name=cipher_RMX1941
+ro.odm_dlkm.build.date=Thu Apr 14 20:46:34 IST 2022
+ro.odm_dlkm.build.date.utc=1649949394
+ro.odm_dlkm.build.fingerprint=google/redfin/redfin:11/RQ3A.210805.001.A1/7474174:user/release-keys
+ro.odm_dlkm.build.id=SP2A.220405.004
+ro.odm_dlkm.build.tags=release-keys
+ro.odm_dlkm.build.type=userdebug
+ro.odm_dlkm.build.version.incremental=eng.nexus.20220414.204837
+ro.odm_dlkm.build.version.release=12
+ro.odm_dlkm.build.version.release_or_codename=12
+ro.odm_dlkm.build.version.sdk=32
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
